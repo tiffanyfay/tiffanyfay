@@ -14,7 +14,7 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 ##### April
 
-| Event | Location | Talk |
+|  |  |  |
 | -------- | -------- | -------- |
 | JavaLand | Nürburg, Germany 🇩🇪 | Bootiful Kubernetes Operators (40m) + [Timo Salm](https://timosalm.github.io)
 | JavaLand | Nürburg, Germany 🇩🇪 | 9 (x2) tricks to improve your productivity and reduce your frustration with Kubernetes (40m)
@@ -24,7 +24,7 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 ##### May
 
-| Event | Location | Talk |
+|  |  |  |
 | -------- | -------- | -------- |
 | Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + Matthias Haeussler
 | Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
