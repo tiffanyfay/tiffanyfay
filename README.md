@@ -2,7 +2,7 @@
 
 Hi, I'm Tiffany. I am a technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I also formerly worked as a software developer and developer advocate at Amazon, Docker, and Intel. Before that, I graduated from Georgia Tech with a degree in electrical engineering. 
 
-In my free time, I like to travel and dabble in photography.
+In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dabble in photography](https://instagram.com/tiffanyfayj).
 
 ### Upcoming Conference Talks
 
