@@ -30,6 +30,9 @@ In my free time, I like to travel and dabble in photography.
 | Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
 | GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
 
+**To see my past talks and other content, head over to my [website](https://www.tiffanyfay.dev)!**
+
+
 <!--
 **tiffanyfay/tiffanyfay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
