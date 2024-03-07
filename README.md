@@ -28,7 +28,7 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 | -------- | -------- | -------- |
 | Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 | Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
-| Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+| Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
 
 **To see my past talks and other content, head over to my [website](https://www.tiffanyfay.dev)!**
 
