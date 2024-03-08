@@ -27,7 +27,7 @@ Date(s)| Event | Location | Talk |
 | -------- | -------- | -------- | -------- |
 08-10 | Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 08-10 | Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
-11    | Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators 45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+11    | Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
 15-17 | GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
 
 **To see my past talks and other content, head over to my [website](https://www.tiffanyfay.dev)!**
