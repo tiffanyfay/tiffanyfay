@@ -8,12 +8,15 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-Devoxx Greece | Athens, Greece 🇬🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (50m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-Devoxx France | Paris, France 🇫🇷 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Jérôme Petazzoni](https://hachyderm.io/@jpetazzo)
-Devoxx France | Paris, France 🇫🇷 | A hitchhikers guide to observe (Java) applications in Kubernetes (45m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
-JavaLand | Nürburg, Germany 🇩🇪 | Bootiful Kubernetes Operators (40m) + [Timo Salm](https://timosalm.github.io)
-JavaLand | Nürburg, Germany 🇩🇪 | 9 (x2) tricks to improve your productivity and reduce your frustration with Kubernetes (40m)
-Cloud Native Rejekts | Paris, France 🇫🇷 | A hitchhiker's guide to CNCF/OSS observability solutions around Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+Devoxx UK | London, UK 🇬🇧 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+Devoxx UK | London, UK 🇬🇧 | Stop giving root access and start securing your Kubernetes clusters instead (50m)
+Java Day Istanbul | Istanbul, Turkey 🇹🇷 | Bootiful Kubernetes Operators (45m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+GeeCon | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Ties van de Ven](https://www.tiesvandeven.nl)
+Spring I/O | Barcelona, Spain 🇪🇸 | Magical Beans and Mystery (50m) + [Timo Salm](https://timosalm.github.io)
+KCD Czech & Slovak | Prague, Czech Republic 🇨🇿 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
+Devoxx Poland | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Timo Salm](https://timosalm.github.io)
+KCD Munich | Munich, Germany 🇩🇪 | A hitchhikers guide to observe (Java) applications in Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
+DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
 
 **To see my past talks and other content, head over to my [website](https://www.tiffanyfay.dev)!**
 
