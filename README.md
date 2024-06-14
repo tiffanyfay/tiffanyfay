@@ -9,7 +9,6 @@ In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dab
 #### Spring/Summer
 | Event | Location | Talk |
 | -------- | -------- | -------- |
-KCD Zürich | Zürich, Switzerland 🇨🇭 | 11 tricks to improve your productivity and reduce your frustration with Kubernetes
 Devoxx Poland | Kraków, Poland 🇵🇱 | Bootiful Kubernetes Operators (50m) + [Timo Salm](https://timosalm.github.io)
 KCD Munich | Munich, Germany 🇩🇪 | A hitchhiker's guide to CNCF/OSS observability solutions around Kubernetes (30m) + [Matthias Haeussler](https://www.linkedin.com/in/matthiashaeussler/)
 DevRelCon | New York City, NY 🇺🇸 | Code, Coffee, and Connections (7m)
