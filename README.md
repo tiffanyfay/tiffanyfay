@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Hi, I'm Tiffany. I am a technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I also formerly worked as a software developer and developer advocate at Amazon, Docker, and Intel. Before that, I graduated from Georgia Tech with a degree in electrical engineering. 
+Hi, I'm Tiffany. I am a CNCF Ambassador, technology advocate, technical content creator, and community enabler in the Cloud Native space. I most recently was a senior developer advocate at VMware. I also formerly worked as a software developer and developer advocate at Amazon, Docker, and Intel. Before that, I graduated from Georgia Tech with a degree in electrical engineering. 
 
 In my free time, I like to [travel](https://instagram.com/_tiffanyfay_) and [dabble in photography](https://instagram.com/tiffanyfayj).
 
+<!--
 ### Upcoming Conference Talks
 
 #### Spring/Summer
@@ -21,6 +22,7 @@ VMware Explore/SpringOne | Las Vegas, NV 🇺🇸 | Magical Beans and Mystery wi
 Container Days | Hamburg, Germany 🇩🇪 | Stop giving root access and start securing your Kubernetes clusters instead (30m)
 All Things Open (ATO) | Raleigh, NC 🇺🇸 | Cloud Native Security for the Rest of Us
 
+-->
 **To see my past talks and other content, head over to my [website](https://www.tiffanyfay.dev)!**
 
 
